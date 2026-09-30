@@ -8,7 +8,7 @@ const tokenRequest: TokenRequestType = {
     name: "Pakhangba",
     symbol: "PAH",
     decimals: 6,
-    logoUrl: "https://raw.githubusercontent.com/AtmosExchange/supra-token-list/main/logos/pakhangba.jpg.jpg",
+    logoUrl: "https://raw.githubusercontent.com/AtmosExchange/supra-token-list/main/logos/PAH.png",
     projectUrl: "https://www.pakhangba90.workers.dev/",
     twitterUrl: null,
     telegramUrl: null,
